@@ -52,7 +52,7 @@ Make sure you have the following installed:
 git clone https://github.com/your-username/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
 ```
-## Step 2: Set Up the Backend
+### Step 2: Set Up the Backend
 
 Navigate to the `backend` directory and create a virtual environment:
 
@@ -74,7 +74,7 @@ Run the Flask server:
 python app.py 
 ```
 
-## Step 3: Set Up the Frontend 
+### Step 3: Set Up the Frontend 
 
 Navigate to the `client` directory 
 
