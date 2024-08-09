@@ -1,4 +1,4 @@
-# AI-Powered Sentiment Analysis Tool
+# AI-Assisted Sentiment Analysis Tool
 
 The **AI-Assisted Sentiment Analysis Tool** is a full-stack web application designed to interpret and analyze textual data using artificial intelligence. This tool identifies the sentiment behind any given text, providing valuable insights that can optimize decision-making, refine strategies, and drive informed outcomes.
 
